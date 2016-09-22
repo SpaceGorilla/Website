@@ -1,0 +1,63 @@
+/* CSS for styles */
+
+#header {
+	background:url('colorful_ethernet.jpeg') no-repeat fixed left top;
+	background-size:cover;
+	font-family:Arial, Helvetica, sans-serif;
+}
+
+#logo {
+	float:left;
+	height:100px;
+	width:auto;
+}
+
+#title {
+	color:#ff6666;
+	font-size:100px;
+}
+
+#headText {
+	font-size:36px;
+	color:#3399ff;
+}
+
+#nav {
+	border-top:grey 3px solid;
+	border-bottom:grey 3px solid;
+}
+
+/* Navigation Menu */
+
+#menu {
+	
+}
+
+.link {
+	text-align:center;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+.link:hover {
+	transition:background-color 0.5s,color 0.5s,font-weight 0.5s;
+	transition-timing-function:ease-in-out;
+	background-color:lightgrey;
+	color:#3399ff;
+	font-weight:bold;
+}
+
+.dropDown {
+	
+}
+
+/////////////////////
+
+#section {
+	
+}
+
+#footer {
+	text-align:center;
+	border-top:grey 3px solid;
+	border-bottom:grey 3px solid;
+}
